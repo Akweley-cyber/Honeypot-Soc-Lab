@@ -24,7 +24,7 @@ My project consisted of deploying a Windows virtual machine in Microsoft Azure a
 <h2>Program walk-through:</h2>
 
 <p align="center">
-https://github.com/Akweley-cyber/Honeypot-Soc-Lab.git
+![image alt](https://github.com/Akweley-cyber/Honeypot-Soc-Lab/blob/8893826072c2690edbebbcd6a8bdeb14abfb0c71/Screenshot%202026-02-10%20171056.png)
 <br />
 <br />
 Select the disk:  <br/>
