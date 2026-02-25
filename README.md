@@ -30,12 +30,12 @@ Create Log Analytics Workspace:  <br/>
 <img src="images/Screenshot 2026-02-11 182959.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Enable Microsoft Sentinel: <br/>
+<img src="images/Screenshot 2026-02-11 183748.png"80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Deploy Windows Virtual Machine:  <br/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
