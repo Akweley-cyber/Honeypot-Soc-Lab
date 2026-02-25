@@ -46,8 +46,8 @@ Enable Windows Security Logging:  <br/>
 <img src="images/Screenshot 2026-02-11 182531.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Configure Data Collection Rule (DCR):  <br/>
+<img src="images/Screenshot 2026-02-11 184236.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
