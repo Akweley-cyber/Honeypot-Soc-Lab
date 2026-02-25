@@ -22,6 +22,10 @@ My project consisted of deploying a Windows virtual machine in Microsoft Azure a
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
+-Create a resource group
+-Created a resource group named RG-Honeypot
+-Selected region: (example: East US)
+-Used this resource group to contain all lab resources
 <img src="images/Screenshot 2026-02-11 173749.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
