@@ -22,7 +22,7 @@ My project consisted of deploying a Windows virtual machine in Microsoft Azure a
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
-- <b>Create a resource group
+- <b>Create a resource group</b>
 - <b>Created a resource group named RG-Honeypot
 - <b>Selected region: (example: East US)
 - <b>Used this resource group to contain all lab resources
