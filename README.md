@@ -27,7 +27,7 @@ Create a resource group:
 <br />
 <br />
 Create Log Analytics Workspace:  <br/>
-<img src="images/Screenshot 2026-02-10 171056.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/Screenshot 2026-02-11 182959.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
