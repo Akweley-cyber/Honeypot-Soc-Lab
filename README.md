@@ -22,7 +22,7 @@ My project consisted of deploying a Windows virtual machine in Microsoft Azure a
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
-![image_alt](https://github.com/Akweley-cyber/Honeypot-Soc-Lab/blob/63b296b56cee7668a5c037208d5e666fb3068e0b/images/Screenshot%202026-02-10%20171056.png)
+![image_alt](images/Screenshot 2026-02-10 171056.png)
 <br />
 <br />
 Select the disk:  <br/>
