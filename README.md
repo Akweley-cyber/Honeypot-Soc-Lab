@@ -23,7 +23,7 @@ My project consisted of deploying a Windows virtual machine in Microsoft Azure a
 
 <h2>Program walk-through:</h2>
 Create a resource group:
-<img src="images/Screenshot 2026-02-11 182959.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/Screenshot 2026-02-11 101223.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Create Log Analytics Workspace:  <br/>
