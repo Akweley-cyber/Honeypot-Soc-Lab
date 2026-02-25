@@ -22,11 +22,11 @@ My project consisted of deploying a Windows virtual machine in Microsoft Azure a
 - <b>Windows 10</b> (21H2)
 
 <h2>Program walk-through:</h2>
-CREATE A RESOURCE GROUP
+Create a resource group:
 <img src="images/Screenshot 2026-02-11 173749.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
-Select the disk:  <br/>
+Create Log Analytics Workspace:  <br/>
 <img src="images/Screenshot 2026-02-10 171056.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
