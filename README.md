@@ -43,7 +43,7 @@ Configure Network Security Group (NSG):  <br/>
 <br />
 <br />
 Enable Windows Security Logging:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/Screenshot 2026-02-11 182531.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Observe the wiped disk:  <br/>
