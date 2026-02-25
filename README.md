@@ -35,7 +35,7 @@ Enable Microsoft Sentinel: <br/>
 <br />
 <br />
 Deploy Windows Virtual Machine:  <br/>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="images/Screenshot 2026-02-11 180857.png" "images/Screenshot 2026-02-11 181855.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for process to complete (may take some time):  <br/>
